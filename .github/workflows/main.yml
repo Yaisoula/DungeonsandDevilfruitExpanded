@@ -11,7 +11,7 @@ jobs:
       shell: bash
       id: get-version
       run: echo "::set-output name=version::$(node ./.github/workflows/get-version.js)"
-    - run: zip -r ./ddevilfruitsexp.zip module.json pack_art/ packs/ tokens/
+    - run: zip -r ./ddevilfruitsexp.zip module.json packart/ packs/ tokens/
     - name: Create Release                                # Create an additional release for this version
       id: create_versioned_release
       uses: ncipollo/release-action@v1
