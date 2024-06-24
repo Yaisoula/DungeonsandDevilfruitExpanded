@@ -1,0 +1,63 @@
+{
+  "id": "dungeons-and-devilfruits-expanded-module",
+  "title": "Dungeons & Devilfruits Expanded Module",
+  "version": "6.4.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "midi-srd",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dungeons-and-devilfruits-converted",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "monks-enhanced-journal",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "yaisoulas-book-of-spells",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "An addon to the base Dungeons and Devilfruits Module. Including extra monsters, devilfruits, and more.",
+  "authors": [
+    {
+      "name": "Yaisoula",
+      "discord": "bazzleberry"
+    }
+  ],
+  "url": "https://www.patreon.com/yaisoula",
+  "packs": [
+    {
+      "name": "dungeons-and-devilfruits-expanded",
+      "label": "Dungeons & Devilfruits Expanded",
+      "path": "packs/dungeons-and-devilfruits-expanded",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
