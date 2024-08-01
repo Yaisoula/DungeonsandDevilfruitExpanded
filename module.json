@@ -1,7 +1,7 @@
 {
     "id": "dungeons-and-devilfruits-expanded-module",
     "title": "Dungeons & Devilfruits Expanded Module",
-    "version": "7.0.0",
+    "version": "8.0.0",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
@@ -46,6 +46,7 @@
             "discord": "bazzleberry"
         }
     ],
+    "url": "https://www.patreon.com/yaisoula",
     "manifest": "https://github.com/Yaisoula/DungeonsandDevilfruitExpanded/releases/download/latest/module.json",
     "download": "https://github.com/Yaisoula/DungeonsandDevilfruitExpanded/releases/download/latest/ddevilfruitsexp.zip",
     "packs": [
