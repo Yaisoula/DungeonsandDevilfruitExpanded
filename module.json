@@ -9,11 +9,6 @@
     "relationships": {
         "requires": [
             {
-                "id": "midi-srd",
-                "type": "module",
-                "compatibility": {}
-            },
-            {
                 "id": "dungeons-and-devilfruits-converted",
                 "type": "module",
                 "compatibility": {}
@@ -27,6 +22,11 @@
             }
         ],
         "recommends": [
+            {
+                "id": "midi-srd",
+                "type": "module",
+                "compatibility": {}
+            },
             {
                 "id": "monks-enhanced-journal",
                 "type": "module",
