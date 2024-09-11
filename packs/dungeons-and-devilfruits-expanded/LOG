@@ -1,5 +1,5 @@
-2024/09/09-01:49:50.037 eac4 Recovering log #595
-2024/09/09-01:49:50.040 eac4 Level-0 table #597: started
-2024/09/09-01:49:50.092 eac4 Level-0 table #597: 156679 bytes OK
-2024/09/09-01:49:50.170 eac4 Delete type=0 #595
-2024/09/09-01:49:50.170 eac4 Delete type=3 #593
+2024/09/10-20:32:35.839 b23c Recovering log #598
+2024/09/10-20:32:35.851 b23c Level-0 table #600: started
+2024/09/10-20:32:36.005 b23c Level-0 table #600: 1158789 bytes OK
+2024/09/10-20:32:36.109 b23c Delete type=0 #598
+2024/09/10-20:32:36.109 b23c Delete type=3 #596
