@@ -1,5 +1,7 @@
-2024/09/09-01:49:50.037 eac4 Recovering log #595
-2024/09/09-01:49:50.040 eac4 Level-0 table #597: started
-2024/09/09-01:49:50.092 eac4 Level-0 table #597: 156679 bytes OK
-2024/09/09-01:49:50.170 eac4 Delete type=0 #595
-2024/09/09-01:49:50.170 eac4 Delete type=3 #593
+2024/11/02-02:11:54.188 4ee0 Recovering log #648
+2024/11/02-02:11:54.309 4ee0 Delete type=0 #648
+2024/11/02-02:11:54.309 4ee0 Delete type=3 #647
+2024/11/02-02:12:49.912 2700 Level-0 table #652: started
+2024/11/02-02:12:49.913 2700 Level-0 table #652: 0 bytes OK
+2024/11/02-02:12:49.946 2700 Delete type=0 #650
+2024/11/02-02:12:49.946 2700 Manual compaction at level-0 from '!adventures!4YOzpsTByj6BLZcx' @ 72057594037927935 : 1 .. '!adventures!wAro4Pvbkk6Uke2f' @ 0 : 0; will stop at (end)
