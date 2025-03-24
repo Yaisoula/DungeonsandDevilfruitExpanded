@@ -1,10 +1,30 @@
-2025/01/27-00:30:12.522 785c Recovering log #852
-2025/01/27-00:30:15.511 785c Delete type=0 #852
-2025/01/27-00:30:15.511 785c Delete type=3 #851
-2025/01/27-00:39:36.184 a7f4 Compacting 2@0 + 1@1 files
-2025/01/27-00:39:36.350 a7f4 Generated table #855@0: 8 keys, 1435418 bytes
-2025/01/27-00:39:36.350 a7f4 Compacted 2@0 + 1@1 files => 1435418 bytes
-2025/01/27-00:39:36.384 a7f4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/01/27-00:39:36.384 a7f4 Delete type=2 #834
-2025/01/27-00:39:36.385 a7f4 Delete type=2 #836
-2025/01/27-00:39:36.385 a7f4 Delete type=2 #845
+2025/03/23-18:58:07.409 5a8c Recovering log #985
+2025/03/23-18:58:07.521 5a8c Delete type=0 #985
+2025/03/23-18:58:07.521 5a8c Delete type=3 #984
+2025/03/23-19:30:33.414 1efc Level-0 table #989: started
+2025/03/23-19:30:33.576 1efc Level-0 table #989: 1204719 bytes OK
+2025/03/23-19:30:33.608 1efc Delete type=0 #987
+2025/03/23-20:35:07.957 1efc Compacting 1@0 + 1@1 files
+2025/03/23-20:35:08.154 1efc Generated table #990@0: 8 keys, 1684879 bytes
+2025/03/23-20:35:08.154 1efc Compacted 1@0 + 1@1 files => 1684879 bytes
+2025/03/23-20:35:08.186 1efc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/23-20:35:08.186 1efc Delete type=2 #973
+2025/03/23-20:35:08.187 1efc Delete type=2 #989
+2025/03/23-20:37:29.973 1efc Level-0 table #992: started
+2025/03/23-20:37:30.084 1efc Level-0 table #992: 948351 bytes OK
+2025/03/23-20:37:30.117 1efc Delete type=0 #988
+2025/03/23-20:39:26.213 1efc Compacting 1@0 + 1@1 files
+2025/03/23-20:39:26.416 1efc Generated table #993@0: 8 keys, 1710181 bytes
+2025/03/23-20:39:26.416 1efc Compacted 1@0 + 1@1 files => 1710181 bytes
+2025/03/23-20:39:26.446 1efc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/23-20:39:26.447 1efc Delete type=2 #990
+2025/03/23-20:39:26.447 1efc Delete type=2 #992
+2025/03/23-20:44:44.729 1efc Level-0 table #995: started
+2025/03/23-20:44:44.905 1efc Level-0 table #995: 1224030 bytes OK
+2025/03/23-20:44:44.938 1efc Delete type=0 #991
+2025/03/23-20:47:43.904 1efc Compacting 1@0 + 1@1 files
+2025/03/23-20:47:44.085 1efc Generated table #996@0: 8 keys, 1706834 bytes
+2025/03/23-20:47:44.085 1efc Compacted 1@0 + 1@1 files => 1706834 bytes
+2025/03/23-20:47:44.114 1efc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/23-20:47:44.114 1efc Delete type=2 #993
+2025/03/23-20:47:44.114 1efc Delete type=2 #995
