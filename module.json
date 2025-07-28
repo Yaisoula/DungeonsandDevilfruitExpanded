@@ -1,7 +1,7 @@
 {
     "id": "dungeons-and-devilfruits-expanded-module",
     "title": "Dungeons & Devilfruits Expanded Module",
-    "version": "14.0.1",
+    "version": "14.1.0",
     "compatibility": {
         "minimum": "12",
         "verified": "12"
