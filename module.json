@@ -1,19 +1,24 @@
 {
     "id": "dungeons-and-devilfruits-expanded-module",
     "title": "Dungeons & Devilfruits Expanded Module",
-    "version": "15.3.0",
+    "version": "16.0.0",
     "compatibility": {
-        "minimum": "12",
-        "verified": "12"
+        "minimum": "13",
+        "verified": "13"
     },
     "relationships": {
-        "requires": [
-            {
-                "id": "dungeons-and-devilfruits-converted",
-                "type": "module",
-                "compatibility": {}
-            }
-        ],
+      "requires": [
+        {
+          "id": "dungeons-and-devilfruits-converted",
+          "type": "module",
+          "compatibility": {}
+        },
+        {
+          "id": "one-piece-supplement-module",
+          "type": "module",
+          "compatibility": {}
+        }
+      ],
         "systems": [
             {
                 "id": "dnd5e",
